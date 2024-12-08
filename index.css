@@ -1,0 +1,51 @@
+
+
+    /*-------------RESET--------------*/
+
+
+
+
+#cabeceraweb{
+    background-color: aqua;
+}
+#navegacionprincipal{
+    background-color: blueviolet;
+    
+    
+}
+#contenidoprincipal{
+    background-color: brown;
+    margin-left: 500px;
+    padding: 20px;
+    
+}
+#barralateral{
+    background-color: blue;
+    float: left
+    
+}
+
+
+
+
+
+/*------------Etiquetas padres-----------------*/
+body{
+    background-color: rgb(73, 89, 89);
+}
+
+footer{
+    background-color: rgb(255, 255, 0);
+    display: flex;
+}
+
+
+/* ----------------HIJOS--------------*/
+
+li{
+    background-color: yellow;
+    display: inline;
+}
+
+/*----------------Cajas--------------*/
+
