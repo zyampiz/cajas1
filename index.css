@@ -13,9 +13,14 @@
     
     
 }
+#navegacionprincipal li{
+    background-color: yellow;
+    display: inline;
+
+}
 #contenidoprincipal{
     background-color: brown;
-    margin-left: 500px;
+    margin-left: 430px;
     padding: 20px;
     
 }
@@ -37,14 +42,15 @@ body{
 footer{
     background-color: rgb(255, 255, 0);
     display: flex;
+    
 }
 
 
 /* ----------------HIJOS--------------*/
 
-li{
-    background-color: yellow;
-    display: inline;
+h2{
+    text-align: center;
+    
 }
 
 /*----------------Cajas--------------*/
